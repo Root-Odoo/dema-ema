@@ -1,0 +1,4 @@
+[submodule "ruuter/odoo-hr_zk_attendance_pyzk"]
+	path = ruuter/odoo-hr_zk_attendance_pyzk
+	url = git@github.com:ruuter/odoo-hr_zk_attendance_pyzk.git
+	branch = master
