@@ -2,3 +2,8 @@
 	path = ruuter/odoo-hr_zk_attendance_pyzk
 	url = git@github.com:ruuter/odoo-hr_zk_attendance_pyzk.git
 	branch = master
+
+[submodule "CybroOdoo/CybroAddons/tree/15.0/hr_zk_attendance"]
+	path = CybroOdoo/CybroAddons/tree/15.0/hr_zk_attendance
+	url = git@github.com:CybroOdoo/CybroAddons.git
+	branch = 15.0
